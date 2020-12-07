@@ -1687,3 +1687,12 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.12.07-19.23.02:904][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.12.07-19.23.04:185][275]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
 [2020.12.07-19.23.04:185][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-19.25.19:570][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ThePhoto.ThePhoto
+[2020.12.07-19.25.29:915][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThePhoto" FILE="../../../../../../Github/GJAM_7DFPS/GJAM_7DFPS/Content/Blueprints/ThePhoto.uasset" SILENT=true
+[2020.12.07-19.25.29:938][838]LogSavePackage: Moving '../../../../../../Github/GJAM_7DFPS/GJAM_7DFPS/Saved/ThePhoto5F9851BF47E8730A3C5013AD17FAB87B.tmp' to '../../../../../../Github/GJAM_7DFPS/GJAM_7DFPS/Content/Blueprints/ThePhoto.uasset'
+[2020.12.07-19.25.29:958][838]AssetCheck: New page: Asset Save: ThePhoto
+[2020.12.07-19.25.29:958][838]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThePhoto.ThePhoto
+[2020.12.07-19.25.31:577][889]LogSlate: Window 'ThePhoto' being destroyed
+[2020.12.07-19.25.31:613][889]LogSlate: Window 'ThePhoto' being destroyed
+[2020.12.07-19.25.31:614][889]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-19.25.31:614][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
